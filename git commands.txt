@@ -1,0 +1,5 @@
+*git commands and solutions*
+
+1.) git push -f origin master (When it fails to push try this) 
+
+
